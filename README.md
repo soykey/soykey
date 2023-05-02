@@ -1,2 +1,2 @@
-Japanese high school student  
-Learning JavaScript,Linux,C,Python
+Japanese university student
+Learning JavaScript,Linux,C,Python,Java

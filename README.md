@@ -4,7 +4,7 @@ I'm a 19-year-old college student from Japan. I'm interested in Web and IoT deve
 
 ## 📫 How to reach me
 
-- Twitter: [[@s0ykey](https://twitter.com/s0ykey)]
+- Twitter: [@s0ykey](https://twitter.com/s0ykey)
 - GitHub: [@soykey](https://github.com/soykey)
 - Blog: [skycuk.net](https://skycuk.net) <br/>*doesn't work*
 

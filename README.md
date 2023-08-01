@@ -12,5 +12,4 @@ I'm a 19-year-old college student from Japan. I'm interested in Web and IoT deve
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soykey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-<br/>
-This Profile has been Written by ChatGPT
+
